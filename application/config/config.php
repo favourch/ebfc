@@ -5,7 +5,7 @@
 *
 */
 
-$config['base_url'] = 'http://localhost/ebfc/';
+$config['base_url'] = 'http://localhost/';
 
 //default controller
 
