@@ -5,7 +5,7 @@
 *
 */
 
-$config['base_url'] = 'http://localhost/';
+$config['base_url'] = 'https://ebfc.herokuapp.com/';
 
 //default controller
 
